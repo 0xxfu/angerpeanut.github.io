@@ -4,14 +4,14 @@
 |---|---|
 |出生：19910908 |籍贯：海南|
 |学校：湖南大学 |专业：智能科学与技术|
-|邮箱：<2290791526@qq.com> |网站：[angerpeanut.github.io](angerpeanut.github.com)|
+|邮箱：<2290791526@qq.com> |网站：[angerpeanut.github.io](http://angerpeanut.github.com)|
 
 
 ### 经历
+
 - **职责**：技术负责人
 - **时间**：2015/9-至今
 - **项目**：大象洗车后端开发
-
 
 
 - **职责**：android工程师
