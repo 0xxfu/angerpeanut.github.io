@@ -54,7 +54,7 @@
   - **主要承担工作**：app主要功能代码重构
   - **详情**：
 
-    1、android第一版本是外包demo版本，代码耦合度非常高，功能不稳定。并且用java写的view，可读性非常差。
+    1、android第一版本是外包demo版本，代码耦合度非常高，功能不稳定。并且用java写的view，可读性非常差。<br>
     2、本人主要工作：调整主页面架构；把controller、model、view分离；支付模块分离、增加分享模块；统一管理dimen、string、color资源。
 
 #### 大象洗车：android app开发
