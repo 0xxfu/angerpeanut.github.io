@@ -29,6 +29,12 @@
 - **时间**：2015/4-2015/10
 - **工作内容**：android app开发、pc管理台开发
 
+### 技能
+```php``` ```java``` ```mysql``` ```mogondb``` ```redis``` ```memcached``` ```nginx``` 
+```thinkphp``` ```yii```
+```spring``` ```springMVC``` ```mybatis``` ```hibernate``` 
+```uml``` ```git``` ```bootstrap``` ```react``` ```nodejs```
+
 ### 项目
 ----
 #### 宝贝码头：BD业绩统计系统
@@ -106,12 +112,6 @@
 
     1、本人主要开发如下功能：增加业务动态调整功能、分离订单创建与支付、增加vip充值功能<br>
     2、优化定位精确度、优化页面显示
-
-### 技能
-```php``` ```java``` ```mysql``` ```mogondb``` ```redis``` ```nginx``` 
-```thinkphp``` ```yii```
-```spring``` ```springMVC``` ```mybatis``` ```hibernate``` 
-```uml``` ```git``` ```bootstrap``` ```react``` ```node```
 
 ### 兴趣
 ```人工智能``` ```读书``` ```滑冰``` ```音乐``` ```足球``` ```排球``` ……
