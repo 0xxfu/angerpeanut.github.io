@@ -33,6 +33,7 @@
 ```php``` ```java``` ```mysql``` ```mogondb``` ```redis``` ```memcached``` ```nginx``` 
 ```thinkphp``` ```yii```
 ```spring``` ```springMVC``` ```mybatis``` ```hibernate``` 
+```hadoop``` ```Hadoop``` ```Spark``` ```Hbase``` ```Hive```
 ```uml``` ```git``` ```bootstrap``` ```react``` ```nodejs```
 
 ### 项目
