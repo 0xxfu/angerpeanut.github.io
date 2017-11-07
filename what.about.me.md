@@ -6,6 +6,15 @@
 |学校：2011级湖南大学(未取得毕业证) |专业：智能科学与技术|
 |邮箱：<2290791526@qq.com> |网站：[http://angerpeanut.github.io/](http://angerpeanut.github.io/)|
 
+
+### 技能
+```php``` ```java``` ```golang``` ```mysql``` ```mogondb``` ```redis``` ```memcached``` ```nginx```
+```thinkphp``` ```yii```
+```springboot```  ```hibernate```
+```vue``` ```react``` ```nodejs```
+```Docker``` ```kubernetes```
+```rocketmq``` ```storm``` ```Spark```
+
 ### 经历
 
 - **职责**:后端架构、开发
@@ -47,15 +56,6 @@
 - **公司**：大象洗车
 - **时间**：2014/11-2015/5
 - **工作内容**：android app开发、pc管理台开发
-
-
-### 技能
-```php``` ```java``` ```golang``` ```mysql``` ```mogondb``` ```redis``` ```memcached``` ```nginx```
-```thinkphp``` ```yii```
-```springboot```  ```hibernate```
-```vue``` ```react``` ```nodejs```
-```Docker``` ```kubernetes```
-```rocketmq``` ```storm``` ```Spark```
 
 
 ### 项目
