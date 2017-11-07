@@ -52,7 +52,7 @@
 ### 技能
 ```php``` ```java``` ```golang``` ```mysql``` ```mogondb``` ```redis``` ```memcached``` ```nginx```
 ```thinkphp``` ```yii```
-```springboot``  ```hibernate```
+```springboot```  ```hibernate```
 ```vue``` ```react``` ```nodejs```
 ```Docker``` ```kubernetes```
 ```rocketmq``` ```storm``` ```Spark```
