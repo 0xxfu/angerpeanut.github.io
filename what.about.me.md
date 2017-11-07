@@ -9,7 +9,7 @@
 ### 经历
 
 - **职责**:后端架构、开发
-- **公司**:客官到家、网站：[http://keguanchina.com/](http://keguanchina.com/)|
+- **公司**:客官到家、网站：[http://keguanchina.com/](http://keguanchina.com/)
 - **时间**:2016/8-2017/10
 - **工作内容**:
 ```
